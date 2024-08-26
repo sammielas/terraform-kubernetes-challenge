@@ -6,7 +6,7 @@ This challenge involves deploying a simple web application on an existing Kubern
 
 ## Architecture Diagram
 
-
+![Architecture Diagram](images/architecture-diagram.png)  
 
 ## Challenge Details
 
